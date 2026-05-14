@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain_community
+langchain_core
+langchain_ollama
+langchain_chroma
+langchain_huggingface
+langchain_text_splitters
+langgraph
+chromadb
+sentence_transformers
+pypdf
+python-multipart
+pydantic-settings

@@ -1,0 +1,8 @@
+# Python virtual environment
+venv/
+
+# Node modules (frontend)
+frontend/node_modules/
+
+# Chroma / SQLite database
+project/backend/vectorstore/chroma/chroma.sqlite3
